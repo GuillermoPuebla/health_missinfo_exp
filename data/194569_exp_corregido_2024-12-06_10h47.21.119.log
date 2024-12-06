@@ -1,0 +1,1242 @@
+2.8022 	ERROR 	Support for the `sounddevice` audio backend is not available this session. Please install `psychopy-sounddevice` and restart the session to enable support.
+7.5527 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+7.5536 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f969b753a30>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f969b7539d0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f969b753850>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f969bd38460>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stencilBits=8, stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.5542 	EXP 	window1: mouseVisible = True
+7.5542 	EXP 	window1: backgroundImage = ''
+7.5542 	EXP 	window1: backgroundFit = 'none'
+7.5556 	EXP 	window1: mouseVisible = False
+7.5557 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+7.5557 	EXP 	window1: recordFrameIntervals = False
+7.6355 	EXP 	window1: recordFrameIntervals = True
+8.4692 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+10.5759 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.5770 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.5778 	EXP 	Created text_number_a = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_number_a', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.5785 	EXP 	Created text_item = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_item', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.5795 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.5802 	EXP 	Created textInput = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textInput', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.5855 	EXP 	Created textPrompt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textPrompt', opacity=1.0, ori=0.0, pos=array([0. , 0.2]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.5866 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.5924 	EXP 	Created rest_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='rest_text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.5931 	EXP 	Created text_number_b = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_number_b', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.5939 	EXP 	Created textInput = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textInput', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.5971 	EXP 	Created textPrompt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textPrompt', opacity=1.0, ori=0.0, pos=array([0. , 0.2]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.5982 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.5989 	EXP 	Created text_item = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_item', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.5999 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.6045 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.6123 	EXP 	Imported items_noticias_2.xlsx as conditions, 32 conditions, 3 params
+10.6130 	EXP 	Created sequence: random, trialTypes=32, nReps=1, seed=None
+10.6132 	EXP 	New trial (rep=0, index=0): {'item_id': 17, 'item': '“El test PCR es eficaz para detectar el COVID-19”.', 'criteria': 1}
+10.6168 	EXP 	New trial (rep=0, index=1): {'item_id': 29, 'item': '“Los síntomas de COVID-19 pueden persistir meses después de la infección inicial”.', 'criteria': 1}
+10.6195 	EXP 	New trial (rep=0, index=2): {'item_id': 18, 'item': '“El COVID-19 está causado por un virus, no una bacteria”.', 'criteria': 1}
+10.6224 	EXP 	New trial (rep=0, index=3): {'item_id': 28, 'item': '“La vía primaria de contagio de COVID-19 son las microgotas en el aire”.', 'criteria': 1}
+10.6246 	EXP 	New trial (rep=0, index=4): {'item_id': 3, 'item': '“Las personas asintomáticas no contagian el COVID-19”.', 'criteria': 0}
+10.6269 	EXP 	New trial (rep=0, index=5): {'item_id': 21, 'item': '“El COVID-19 es una enfermedad que puede afectar distintos órganos”.', 'criteria': 1}
+10.6291 	EXP 	New trial (rep=0, index=6): {'item_id': 11, 'item': '“Los vacunados contra el COVID-19 no pueden donar sangre ni órganos”.', 'criteria': 0}
+10.6313 	EXP 	New trial (rep=0, index=7): {'item_id': 23, 'item': '“La edad  es uno de los factores de riesgo principales ante el COVID-19”.', 'criteria': 1}
+10.6335 	EXP 	New trial (rep=0, index=8): {'item_id': 14, 'item': '“El dióxido de cloro sirve para tratar a pacientes con COVID-19 positivo”.', 'criteria': 0}
+10.6357 	EXP 	New trial (rep=0, index=9): {'item_id': 9, 'item': '“Las vacunas autorizadas contra el COVID-19 contienen grafeno”.', 'criteria': 0}
+10.6378 	EXP 	New trial (rep=0, index=10): {'item_id': 7, 'item': '“Nuevo estudio muestra que el test PCR puede producir Alzheimer”.', 'criteria': 0}
+10.6400 	EXP 	New trial (rep=0, index=11): {'item_id': 31, 'item': '“Síntomas comunes de COVID-19 incluyen fiebre, tos, fatiga y dificultad para respirar”. ', 'criteria': 1}
+10.6421 	EXP 	New trial (rep=0, index=12): {'item_id': 22, 'item': '“El uso de mascarilla también reduce el riesgo de contraer influenza”. ', 'criteria': 1}
+10.6444 	EXP 	New trial (rep=0, index=13): {'item_id': 16, 'item': '“Estudios científicos demuestran que las mascarillas son dañinas e inútiles”.', 'criteria': 0}
+10.6465 	EXP 	New trial (rep=0, index=14): {'item_id': 13, 'item': '“La vacuna contra el COVID-19 modifica la estructura molecular de tu ADN”.', 'criteria': 0}
+10.6487 	EXP 	New trial (rep=0, index=15): {'item_id': 19, 'item': '“Las mascarillas son efectivas para evitar el contagio de COVID-19”.', 'criteria': 1}
+10.6511 	EXP 	New trial (rep=0, index=16): {'item_id': 26, 'item': '“Quienes se contagian de COVID-19 generan una respuesta inmune ante el virus”.', 'criteria': 1}
+10.6534 	EXP 	New trial (rep=0, index=17): {'item_id': 4, 'item': '“CoronaVac es producida a partir de células de bebes abortados”.', 'criteria': 0}
+10.6555 	EXP 	New trial (rep=0, index=18): {'item_id': 8, 'item': '“La luz de los termómetros para corporales puede lastimar la vista”.', 'criteria': 0}
+10.6576 	EXP 	New trial (rep=0, index=19): {'item_id': 25, 'item': '“El aislamiento es una medida que permite reducir la cantidad de contagios”.', 'criteria': 1}
+10.6597 	EXP 	New trial (rep=0, index=20): {'item_id': 10, 'item': '“El Coronavirus se transmite por las ondas electromagnéticas 5G”.', 'criteria': 0}
+10.6619 	EXP 	New trial (rep=0, index=21): {'item_id': 6, 'item': '“La patente para testear el COVID-19 se registró en el año 2015”.', 'criteria': 0}
+10.6640 	EXP 	New trial (rep=0, index=22): {'item_id': 32, 'item': '“Utilizar mascarilla disminuye en un 66% las probabilidades de contagiarse de COVID-19”.', 'criteria': 1}
+10.6662 	EXP 	New trial (rep=0, index=23): {'item_id': 15, 'item': '“Los hisopos del test PCR están esterilizados con un poderoso cancerígeno”.', 'criteria': 0}
+10.6683 	EXP 	New trial (rep=0, index=24): {'item_id': 2, 'item': '“La vacuna contra el COVID-19 puede causar infertilidad”.', 'criteria': 0}
+10.6705 	EXP 	New trial (rep=0, index=25): {'item_id': 5, 'item': '“La vacuna contra el COVID-19 genera atracción magnética”.', 'criteria': 0}
+10.6726 	EXP 	New trial (rep=0, index=26): {'item_id': 30, 'item': '“El COVID-19 se propaga más fácilmente vía contacto directo entre personas”.', 'criteria': 1}
+10.6747 	EXP 	New trial (rep=0, index=27): {'item_id': 1, 'item': '“El test PCR no detecta la presencia de COVID-19”.', 'criteria': 0}
+10.6769 	EXP 	New trial (rep=0, index=28): {'item_id': 12, 'item': '“El plan para la pandemia está diseñado desde 2017 en el Banco Mundial”.', 'criteria': 0}
+10.6791 	EXP 	New trial (rep=0, index=29): {'item_id': 27, 'item': '“Las vacunas han sido altamente eficaces en disminuir las tasas de contagio”.', 'criteria': 1}
+10.6813 	EXP 	New trial (rep=0, index=30): {'item_id': 24, 'item': '“El SARS-CoV-2 produce en algunos casos infección respiratoria aguda grave”.', 'criteria': 1}
+10.6836 	EXP 	New trial (rep=0, index=31): {'item_id': 20, 'item': '“El uso de mascarillas ha sido clave en la prevención de la infección”.', 'criteria': 1}
+10.7035 	WARNING 	t of last frame was 2234.70ms (=1/0)
+10.7035 	EXP 	text: autoDraw = True
+11.0512 	WARNING 	t of last frame was 26.84ms (=1/37)
+11.4681 	WARNING 	t of last frame was 26.69ms (=1/37)
+11.5517 	WARNING 	t of last frame was 28.40ms (=1/35)
+11.9687 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+12.4044 	DATA 	Keypress: return
+12.4099 	EXP 	text: autoDraw = False
+12.4099 	EXP 	text_2: autoDraw = True
+12.9064 	EXP 	Imported conditionsAB.xlsx as conditions, 3 conditions, 3 params
+12.9072 	EXP 	Created sequence: sequential, trialTypes=3, nReps=1, seed=None
+12.9077 	EXP 	New trial (rep=0, index=0): {'nRepsTask1': 16, 'nRepsTask2': 0, 'nRepsTask3': 0}
+12.9081 	EXP 	Created sequence: sequential, trialTypes=1, nReps=16, seed=None
+12.9084 	EXP 	New trial (rep=0, index=0): None
+12.9340 	EXP 	text_2: autoDraw = False
+12.9340 	EXP 	text_number_a: height = 0.05
+12.9340 	EXP 	text_number_a: height = 0.05
+12.9340 	EXP 	text_number_a: height = 0.05
+12.9340 	EXP 	text_number_a: text = 'Recuerda este número: 39541 \n \n Presiona ENTER para continuar.'
+12.9340 	EXP 	text_number_a: autoDraw = True
+14.1243 	DATA 	Keypress: return
+14.1290 	EXP 	text_number_a: autoDraw = False
+14.1290 	EXP 	text_item: height = 0.05
+14.1290 	EXP 	text_item: height = 0.05
+14.1290 	EXP 	text_item: height = 0.05
+14.1290 	EXP 	text_item: text = "“El uso de mascarilla también reduce el riesgo de contraer influenza”.  \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+14.1290 	EXP 	text_item: autoDraw = True
+15.6769 	DATA 	Keypress: q
+15.6829 	EXP 	text_item: autoDraw = False
+15.6829 	EXP 	text_2: autoDraw = True
+16.1820 	EXP 	text_2: autoDraw = False
+16.1820 	EXP 	textInput: autoDraw = True
+16.1820 	EXP 	textPrompt: autoDraw = True
+16.1820 	EXP 	textInput: height = 0.05
+16.1820 	EXP 	textInput: height = 0.05
+16.1820 	EXP 	textInput: height = 0.05
+16.1820 	EXP 	textInput: text = ''
+17.6185 	DATA 	Keypress: 1
+17.6864 	DATA 	Keypress: 2
+17.9791 	DATA 	Keypress: 4
+18.2074 	DATA 	Keypress: 2
+18.2244 	DATA 	Keypress: 1
+18.4064 	DATA 	Keypress: 4
+18.4223 	DATA 	Keypress: 1
+18.4375 	DATA 	Keypress: 2
+18.5617 	DATA 	Keypress: 4
+18.6041 	DATA 	Keypress: 1
+18.6187 	DATA 	Keypress: 2
+18.9245 	DATA 	Keypress: return
+18.9287 	EXP 	textInput: autoDraw = False
+18.9287 	EXP 	textPrompt: autoDraw = False
+18.9287 	EXP 	text_2: autoDraw = True
+19.4244 	EXP 	New trial (rep=1, index=0): None
+19.4520 	EXP 	text_2: autoDraw = False
+19.4520 	EXP 	text_2: autoDraw = False
+19.4520 	EXP 	text_number_a: height = 0.05
+19.4520 	EXP 	text_number_a: height = 0.05
+19.4520 	EXP 	text_number_a: height = 0.05
+19.4520 	EXP 	text_number_a: text = 'Recuerda este número: 18967 \n \n Presiona ENTER para continuar.'
+19.4520 	EXP 	text_number_a: autoDraw = True
+20.3242 	DATA 	Keypress: return
+20.3675 	EXP 	text_number_a: autoDraw = False
+20.3675 	EXP 	text_item: height = 0.05
+20.3675 	EXP 	text_item: height = 0.05
+20.3675 	EXP 	text_item: height = 0.05
+20.3675 	EXP 	text_item: text = "“Síntomas comunes de COVID-19 incluyen fiebre, tos, fatiga y dificultad para respirar”.  \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+20.3675 	EXP 	text_item: autoDraw = True
+21.6806 	DATA 	Keypress: q
+21.6853 	EXP 	text_item: autoDraw = False
+21.6853 	EXP 	text_2: autoDraw = True
+22.1849 	EXP 	text_2: autoDraw = False
+22.1849 	EXP 	text_2: autoDraw = False
+22.1849 	EXP 	textInput: autoDraw = True
+22.1849 	EXP 	textPrompt: autoDraw = True
+22.7876 	DATA 	Keypress: 1
+23.0311 	DATA 	Keypress: 3
+23.0691 	DATA 	Keypress: 2
+23.2975 	DATA 	Keypress: 4
+23.3349 	DATA 	Keypress: 1
+23.4949 	DATA 	Keypress: 4
+23.5366 	DATA 	Keypress: 2
+23.6934 	DATA 	Keypress: 2
+23.9905 	DATA 	Keypress: return
+23.9948 	EXP 	textInput: autoDraw = False
+23.9948 	EXP 	textPrompt: autoDraw = False
+23.9948 	EXP 	text_2: autoDraw = True
+24.4859 	EXP 	New trial (rep=2, index=0): None
+24.5079 	EXP 	text_2: autoDraw = False
+24.5079 	EXP 	text_number_a: height = 0.05
+24.5079 	EXP 	text_number_a: height = 0.05
+24.5079 	EXP 	text_number_a: height = 0.05
+24.5079 	EXP 	text_number_a: text = 'Recuerda este número: 27614 \n \n Presiona ENTER para continuar.'
+24.5079 	EXP 	text_number_a: autoDraw = True
+25.4889 	DATA 	Keypress: return
+25.4937 	EXP 	text_number_a: autoDraw = False
+25.4937 	EXP 	text_item: height = 0.05
+25.4937 	EXP 	text_item: height = 0.05
+25.4937 	EXP 	text_item: height = 0.05
+25.4937 	EXP 	text_item: text = "“El COVID-19 se propaga más fácilmente vía contacto directo entre personas”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+25.4937 	EXP 	text_item: autoDraw = True
+26.5869 	DATA 	Keypress: q
+26.5918 	EXP 	text_item: autoDraw = False
+26.5918 	EXP 	text_2: autoDraw = True
+27.0921 	EXP 	text_2: autoDraw = False
+27.0921 	EXP 	textInput: autoDraw = True
+27.0921 	EXP 	textPrompt: autoDraw = True
+28.1597 	DATA 	Keypress: 1
+28.2058 	DATA 	Keypress: 2
+28.3107 	DATA 	Keypress: 3
+28.4896 	DATA 	Keypress: 1
+28.5103 	DATA 	Keypress: 2
+28.5438 	DATA 	Keypress: 3
+28.6631 	DATA 	Keypress: 3
+28.7464 	DATA 	Keypress: 1
+28.7616 	DATA 	Keypress: 2
+29.0731 	DATA 	Keypress: return
+29.0773 	EXP 	textInput: autoDraw = False
+29.0773 	EXP 	textPrompt: autoDraw = False
+29.0773 	EXP 	text_2: autoDraw = True
+29.5696 	EXP 	New trial (rep=3, index=0): None
+29.5889 	EXP 	text_2: autoDraw = False
+29.5889 	EXP 	text_number_a: height = 0.05
+29.5889 	EXP 	text_number_a: height = 0.05
+29.5889 	EXP 	text_number_a: height = 0.05
+29.5889 	EXP 	text_number_a: text = 'Recuerda este número: 84162 \n \n Presiona ENTER para continuar.'
+29.5889 	EXP 	text_number_a: autoDraw = True
+31.7235 	DATA 	Keypress: return
+31.7282 	EXP 	text_number_a: autoDraw = False
+31.7282 	EXP 	text_item: height = 0.05
+31.7282 	EXP 	text_item: height = 0.05
+31.7282 	EXP 	text_item: height = 0.05
+31.7282 	EXP 	text_item: text = "“La vacuna contra el COVID-19 modifica la estructura molecular de tu ADN”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+31.7282 	EXP 	text_item: autoDraw = True
+32.2153 	DATA 	Keypress: a
+33.7170 	DATA 	Keypress: q
+33.7219 	EXP 	text_item: autoDraw = False
+33.7219 	EXP 	text_2: autoDraw = True
+34.2240 	EXP 	text_2: autoDraw = False
+34.2240 	EXP 	textInput: autoDraw = True
+34.2240 	EXP 	textPrompt: autoDraw = True
+34.5546 	DATA 	Keypress: 1
+34.7045 	DATA 	Keypress: 4
+34.8662 	DATA 	Keypress: 1
+34.8867 	DATA 	Keypress: 2
+35.0950 	DATA 	Keypress: 4
+35.1236 	DATA 	Keypress: 1
+35.1255 	DATA 	Keypress: 2
+35.2980 	DATA 	Keypress: 2
+35.3000 	DATA 	Keypress: 4
+35.3146 	DATA 	Keypress: 1
+35.4969 	DATA 	Keypress: return
+35.5014 	EXP 	textInput: autoDraw = False
+35.5014 	EXP 	textPrompt: autoDraw = False
+35.5014 	EXP 	text_2: autoDraw = True
+35.9935 	EXP 	New trial (rep=4, index=0): None
+36.0125 	EXP 	text_2: autoDraw = False
+36.0125 	EXP 	text_2: autoDraw = False
+36.0125 	EXP 	text_number_a: height = 0.05
+36.0125 	EXP 	text_number_a: height = 0.05
+36.0125 	EXP 	text_number_a: height = 0.05
+36.0125 	EXP 	text_number_a: text = 'Recuerda este número: 29563 \n \n Presiona ENTER para continuar.'
+36.0125 	EXP 	text_number_a: autoDraw = True
+36.7036 	DATA 	Keypress: return
+36.7083 	EXP 	text_number_a: autoDraw = False
+36.7083 	EXP 	text_item: height = 0.05
+36.7083 	EXP 	text_item: height = 0.05
+36.7083 	EXP 	text_item: height = 0.05
+36.7083 	EXP 	text_item: text = "“Los vacunados contra el COVID-19 no pueden donar sangre ni órganos”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+36.7083 	EXP 	text_item: autoDraw = True
+37.8020 	DATA 	Keypress: q
+37.8223 	EXP 	text_item: autoDraw = False
+37.8223 	EXP 	text_2: autoDraw = True
+38.3311 	EXP 	text_2: autoDraw = False
+38.3311 	EXP 	text_2: autoDraw = False
+38.3311 	EXP 	textInput: autoDraw = True
+38.3311 	EXP 	textPrompt: autoDraw = True
+38.9496 	DATA 	Keypress: return
+39.6905 	DATA 	Keypress: 1
+39.7253 	DATA 	Keypress: 2
+39.7860 	DATA 	Keypress: 3
+40.0688 	DATA 	Keypress: 1
+40.1488 	DATA 	Keypress: 2
+40.1718 	DATA 	Keypress: 4
+40.6155 	DATA 	Keypress: return
+40.6201 	EXP 	textInput: autoDraw = False
+40.6201 	EXP 	textPrompt: autoDraw = False
+40.6201 	EXP 	text_2: autoDraw = True
+41.1102 	EXP 	New trial (rep=5, index=0): None
+41.1295 	EXP 	text_2: autoDraw = False
+41.1295 	EXP 	text_2: autoDraw = False
+41.1295 	EXP 	text_number_a: height = 0.05
+41.1295 	EXP 	text_number_a: height = 0.05
+41.1295 	EXP 	text_number_a: height = 0.05
+41.1295 	EXP 	text_number_a: text = 'Recuerda este número: 64531 \n \n Presiona ENTER para continuar.'
+41.1295 	EXP 	text_number_a: autoDraw = True
+41.8929 	DATA 	Keypress: return
+41.9316 	EXP 	text_number_a: autoDraw = False
+41.9316 	EXP 	text_item: height = 0.05
+41.9316 	EXP 	text_item: height = 0.05
+41.9316 	EXP 	text_item: height = 0.05
+41.9316 	EXP 	text_item: text = "“La luz de los termómetros para corporales puede lastimar la vista”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+41.9316 	EXP 	text_item: autoDraw = True
+42.9321 	DATA 	Keypress: q
+42.9549 	EXP 	text_item: autoDraw = False
+42.9549 	EXP 	text_2: autoDraw = True
+43.4589 	EXP 	text_2: autoDraw = False
+43.4589 	EXP 	textInput: autoDraw = True
+43.4589 	EXP 	textPrompt: autoDraw = True
+43.9559 	DATA 	Keypress: 2
+43.9771 	DATA 	Keypress: 1
+43.9793 	DATA 	Keypress: 3
+44.2188 	DATA 	Keypress: 3
+44.2697 	DATA 	Keypress: 2
+44.2717 	DATA 	Keypress: 1
+44.4204 	DATA 	Keypress: 3
+44.5523 	DATA 	Keypress: 1
+44.5686 	DATA 	Keypress: 2
+44.7024 	DATA 	Keypress: 3
+44.8627 	DATA 	Keypress: return
+44.8826 	EXP 	textInput: autoDraw = False
+44.8826 	EXP 	textPrompt: autoDraw = False
+44.8826 	EXP 	text_2: autoDraw = True
+45.3740 	EXP 	New trial (rep=6, index=0): None
+45.3940 	EXP 	text_2: autoDraw = False
+45.3940 	EXP 	text_2: autoDraw = False
+45.3940 	EXP 	text_number_a: height = 0.05
+45.3940 	EXP 	text_number_a: height = 0.05
+45.3940 	EXP 	text_number_a: height = 0.05
+45.3940 	EXP 	text_number_a: text = 'Recuerda este número: 75946 \n \n Presiona ENTER para continuar.'
+45.3940 	EXP 	text_number_a: autoDraw = True
+46.1043 	DATA 	Keypress: return
+46.1091 	EXP 	text_number_a: autoDraw = False
+46.1091 	EXP 	text_item: height = 0.05
+46.1091 	EXP 	text_item: height = 0.05
+46.1091 	EXP 	text_item: height = 0.05
+46.1091 	EXP 	text_item: text = "“CoronaVac es producida a partir de células de bebes abortados”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+46.1091 	EXP 	text_item: autoDraw = True
+46.9900 	DATA 	Keypress: 1
+47.8071 	DATA 	Keypress: q
+47.8306 	EXP 	text_item: autoDraw = False
+47.8306 	EXP 	text_2: autoDraw = True
+48.3376 	EXP 	text_2: autoDraw = False
+48.3376 	EXP 	text_2: autoDraw = False
+48.3376 	EXP 	textInput: autoDraw = True
+48.3376 	EXP 	textPrompt: autoDraw = True
+48.9278 	DATA 	Keypress: return
+49.7776 	DATA 	Keypress: return
+50.3634 	DATA 	Keypress: 1
+50.4691 	DATA 	Keypress: 2
+50.5023 	DATA 	Keypress: 4
+50.7917 	DATA 	Keypress: 4
+50.8524 	DATA 	Keypress: 2
+50.8689 	DATA 	Keypress: 1
+51.0955 	DATA 	Keypress: 1
+51.0977 	DATA 	Keypress: 2
+51.3713 	DATA 	Keypress: return
+51.3756 	EXP 	textInput: autoDraw = False
+51.3756 	EXP 	textPrompt: autoDraw = False
+51.3756 	EXP 	text_2: autoDraw = True
+51.8700 	EXP 	New trial (rep=7, index=0): None
+51.8920 	EXP 	text_2: autoDraw = False
+51.8920 	EXP 	text_number_a: height = 0.05
+51.8920 	EXP 	text_number_a: height = 0.05
+51.8920 	EXP 	text_number_a: height = 0.05
+51.8920 	EXP 	text_number_a: text = 'Recuerda este número: 89235 \n \n Presiona ENTER para continuar.'
+51.8920 	EXP 	text_number_a: autoDraw = True
+52.8847 	DATA 	Keypress: return
+52.8895 	EXP 	text_number_a: autoDraw = False
+52.8895 	EXP 	text_item: height = 0.05
+52.8895 	EXP 	text_item: height = 0.05
+52.8895 	EXP 	text_item: height = 0.05
+52.8895 	EXP 	text_item: text = "“Las vacunas han sido altamente eficaces en disminuir las tasas de contagio”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+52.8895 	EXP 	text_item: autoDraw = True
+54.3615 	DATA 	Keypress: p
+54.3840 	EXP 	text_item: autoDraw = False
+54.3840 	EXP 	text_2: autoDraw = True
+54.8861 	EXP 	text_2: autoDraw = False
+54.8861 	EXP 	text_2: autoDraw = False
+54.8861 	EXP 	textInput: autoDraw = True
+54.8861 	EXP 	textPrompt: autoDraw = True
+55.8029 	DATA 	Keypress: return
+56.2629 	DATA 	Keypress: 1
+56.5253 	DATA 	Keypress: 4
+56.7823 	DATA 	Keypress: 4
+57.3365 	DATA 	Keypress: 4
+57.6852 	DATA 	Keypress: 4
+58.1262 	DATA 	Keypress: 4
+58.4974 	DATA 	Keypress: return
+58.5023 	EXP 	textInput: autoDraw = False
+58.5023 	EXP 	textPrompt: autoDraw = False
+58.5023 	EXP 	text_2: autoDraw = True
+58.9923 	EXP 	New trial (rep=8, index=0): None
+59.0056 	EXP 	text_2: autoDraw = False
+59.0056 	EXP 	text_2: autoDraw = False
+59.0056 	EXP 	text_number_a: height = 0.05
+59.0056 	EXP 	text_number_a: height = 0.05
+59.0056 	EXP 	text_number_a: height = 0.05
+59.0056 	EXP 	text_number_a: text = 'Recuerda este número: 18627 \n \n Presiona ENTER para continuar.'
+59.0056 	EXP 	text_number_a: autoDraw = True
+59.8706 	DATA 	Keypress: return
+59.8750 	EXP 	text_number_a: autoDraw = False
+59.8750 	EXP 	text_item: height = 0.05
+59.8750 	EXP 	text_item: height = 0.05
+59.8750 	EXP 	text_item: height = 0.05
+59.8750 	EXP 	text_item: text = "“El SARS-CoV-2 produce en algunos casos infección respiratoria aguda grave”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+59.8750 	EXP 	text_item: autoDraw = True
+61.1542 	DATA 	Keypress: q
+61.1592 	EXP 	text_item: autoDraw = False
+61.1592 	EXP 	text_2: autoDraw = True
+61.6598 	EXP 	text_2: autoDraw = False
+61.6598 	EXP 	textInput: autoDraw = True
+61.6598 	EXP 	textPrompt: autoDraw = True
+62.4380 	DATA 	Keypress: 3
+63.0649 	DATA 	Keypress: 1
+63.2936 	DATA 	Keypress: 3
+63.3281 	DATA 	Keypress: 2
+63.3757 	DATA 	Keypress: 1
+63.5124 	DATA 	Keypress: 3
+63.7051 	DATA 	Keypress: 1
+63.7328 	DATA 	Keypress: 2
+63.9478 	DATA 	Keypress: return
+63.9521 	EXP 	textInput: autoDraw = False
+63.9521 	EXP 	textPrompt: autoDraw = False
+63.9521 	EXP 	text_2: autoDraw = True
+64.4442 	EXP 	New trial (rep=9, index=0): None
+64.4635 	EXP 	text_2: autoDraw = False
+64.4635 	EXP 	text_2: autoDraw = False
+64.4635 	EXP 	text_number_a: height = 0.05
+64.4635 	EXP 	text_number_a: height = 0.05
+64.4635 	EXP 	text_number_a: height = 0.05
+64.4635 	EXP 	text_number_a: text = 'Recuerda este número: 28697 \n \n Presiona ENTER para continuar.'
+64.4635 	EXP 	text_number_a: autoDraw = True
+65.5703 	DATA 	Keypress: return
+65.5751 	EXP 	text_number_a: autoDraw = False
+65.5751 	EXP 	text_item: height = 0.05
+65.5751 	EXP 	text_item: height = 0.05
+65.5751 	EXP 	text_item: height = 0.05
+65.5751 	EXP 	text_item: text = "“El uso de mascarillas ha sido clave en la prevención de la infección”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+65.5751 	EXP 	text_item: autoDraw = True
+66.7361 	DATA 	Keypress: q
+66.7567 	EXP 	text_item: autoDraw = False
+66.7567 	EXP 	text_2: autoDraw = True
+67.2631 	EXP 	text_2: autoDraw = False
+67.2631 	EXP 	text_2: autoDraw = False
+67.2631 	EXP 	textInput: autoDraw = True
+67.2631 	EXP 	textPrompt: autoDraw = True
+69.1189 	DATA 	Keypress: 1
+69.3213 	DATA 	Keypress: 3
+69.3472 	DATA 	Keypress: 2
+69.5617 	DATA 	Keypress: 1
+69.7085 	DATA 	Keypress: 3
+69.9148 	DATA 	Keypress: 1
+69.9617 	DATA 	Keypress: 3
+69.9792 	DATA 	Keypress: 2
+70.0826 	DATA 	Keypress: 3
+70.1417 	DATA 	Keypress: 1
+70.1573 	DATA 	Keypress: 2
+70.3381 	DATA 	Keypress: return
+70.3423 	EXP 	textInput: autoDraw = False
+70.3423 	EXP 	textPrompt: autoDraw = False
+70.3423 	EXP 	text_2: autoDraw = True
+70.8369 	EXP 	New trial (rep=10, index=0): None
+70.8590 	EXP 	text_2: autoDraw = False
+70.8590 	EXP 	text_number_a: height = 0.05
+70.8590 	EXP 	text_number_a: height = 0.05
+70.8590 	EXP 	text_number_a: height = 0.05
+70.8590 	EXP 	text_number_a: text = 'Recuerda este número: 58643 \n \n Presiona ENTER para continuar.'
+70.8590 	EXP 	text_number_a: autoDraw = True
+71.7989 	DATA 	Keypress: return
+71.8040 	EXP 	text_number_a: autoDraw = False
+71.8040 	EXP 	text_item: height = 0.05
+71.8040 	EXP 	text_item: height = 0.05
+71.8040 	EXP 	text_item: height = 0.05
+71.8040 	EXP 	text_item: text = "“Los hisopos del test PCR están esterilizados con un poderoso cancerígeno”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+71.8040 	EXP 	text_item: autoDraw = True
+72.9271 	DATA 	Keypress: q
+72.9496 	EXP 	text_item: autoDraw = False
+72.9496 	EXP 	text_2: autoDraw = True
+73.4512 	EXP 	text_2: autoDraw = False
+73.4512 	EXP 	text_2: autoDraw = False
+73.4512 	EXP 	textInput: autoDraw = True
+73.4512 	EXP 	textPrompt: autoDraw = True
+73.7831 	DATA 	Keypress: 1
+73.8036 	DATA 	Keypress: 2
+74.0859 	DATA 	Keypress: 2
+74.1026 	DATA 	Keypress: 3
+74.2721 	DATA 	Keypress: 3
+74.2909 	DATA 	Keypress: 1
+74.4363 	DATA 	Keypress: 1
+74.5814 	DATA 	Keypress: 2
+74.5977 	DATA 	Keypress: 1
+74.6132 	DATA 	Keypress: 3
+74.9113 	DATA 	Keypress: return
+74.9331 	EXP 	textInput: autoDraw = False
+74.9331 	EXP 	textPrompt: autoDraw = False
+74.9331 	EXP 	text_2: autoDraw = True
+75.4251 	EXP 	New trial (rep=11, index=0): None
+75.4477 	EXP 	text_2: autoDraw = False
+75.4477 	EXP 	text_2: autoDraw = False
+75.4477 	EXP 	text_number_a: height = 0.05
+75.4477 	EXP 	text_number_a: height = 0.05
+75.4477 	EXP 	text_number_a: height = 0.05
+75.4477 	EXP 	text_number_a: text = 'Recuerda este número: 73691 \n \n Presiona ENTER para continuar.'
+75.4477 	EXP 	text_number_a: autoDraw = True
+76.0850 	DATA 	Keypress: return
+76.0898 	EXP 	text_number_a: autoDraw = False
+76.0898 	EXP 	text_item: height = 0.05
+76.0898 	EXP 	text_item: height = 0.05
+76.0898 	EXP 	text_item: height = 0.05
+76.0898 	EXP 	text_item: text = "“El plan para la pandemia está diseñado desde 2017 en el Banco Mundial”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+76.0898 	EXP 	text_item: autoDraw = True
+76.9312 	DATA 	Keypress: q
+76.9362 	EXP 	text_item: autoDraw = False
+76.9362 	EXP 	text_2: autoDraw = True
+77.4365 	EXP 	text_2: autoDraw = False
+77.4365 	EXP 	text_2: autoDraw = False
+77.4365 	EXP 	textInput: autoDraw = True
+77.4365 	EXP 	textPrompt: autoDraw = True
+77.7449 	DATA 	Keypress: 1
+77.8409 	DATA 	Keypress: 2
+77.9195 	DATA 	Keypress: 3
+78.1067 	DATA 	Keypress: 1
+78.1262 	DATA 	Keypress: 2
+78.2526 	DATA 	Keypress: 3
+78.2983 	DATA 	Keypress: 1
+78.3138 	DATA 	Keypress: 2
+78.4668 	DATA 	Keypress: 1
+78.5368 	DATA 	Keypress: 3
+78.6951 	DATA 	Keypress: return
+78.6996 	EXP 	textInput: autoDraw = False
+78.6996 	EXP 	textPrompt: autoDraw = False
+78.6996 	EXP 	text_2: autoDraw = True
+79.1915 	EXP 	New trial (rep=12, index=0): None
+79.2136 	EXP 	text_2: autoDraw = False
+79.2136 	EXP 	text_2: autoDraw = False
+79.2136 	EXP 	text_number_a: height = 0.05
+79.2136 	EXP 	text_number_a: height = 0.05
+79.2136 	EXP 	text_number_a: height = 0.05
+79.2136 	EXP 	text_number_a: text = 'Recuerda este número: 48215 \n \n Presiona ENTER para continuar.'
+79.2136 	EXP 	text_number_a: autoDraw = True
+79.9739 	DATA 	Keypress: return
+79.9787 	EXP 	text_number_a: autoDraw = False
+79.9787 	EXP 	text_item: height = 0.05
+79.9787 	EXP 	text_item: height = 0.05
+79.9787 	EXP 	text_item: height = 0.05
+79.9787 	EXP 	text_item: text = "“El dióxido de cloro sirve para tratar a pacientes con COVID-19 positivo”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+79.9787 	EXP 	text_item: autoDraw = True
+80.7029 	DATA 	Keypress: 1
+81.3064 	DATA 	Keypress: return
+82.2687 	DATA 	Keypress: q
+82.2736 	EXP 	text_item: autoDraw = False
+82.2736 	EXP 	text_2: autoDraw = True
+82.7765 	EXP 	text_2: autoDraw = False
+82.7765 	EXP 	textInput: autoDraw = True
+82.7765 	EXP 	textPrompt: autoDraw = True
+83.4167 	DATA 	Keypress: 1
+83.5653 	DATA 	Keypress: 2
+83.8490 	DATA 	Keypress: 3
+83.9156 	DATA 	Keypress: 1
+84.1070 	DATA 	Keypress: 2
+84.1092 	DATA 	Keypress: 3
+84.2803 	DATA 	Keypress: 3
+84.3237 	DATA 	Keypress: 2
+84.3383 	DATA 	Keypress: 1
+84.7565 	DATA 	Keypress: return
+84.7609 	EXP 	textInput: autoDraw = False
+84.7609 	EXP 	textPrompt: autoDraw = False
+84.7609 	EXP 	text_2: autoDraw = True
+85.2480 	EXP 	New trial (rep=13, index=0): None
+85.2608 	EXP 	text_2: autoDraw = False
+85.2608 	EXP 	text_2: autoDraw = False
+85.2608 	EXP 	text_number_a: height = 0.05
+85.2608 	EXP 	text_number_a: height = 0.05
+85.2608 	EXP 	text_number_a: height = 0.05
+85.2608 	EXP 	text_number_a: text = 'Recuerda este número: 65247 \n \n Presiona ENTER para continuar.'
+85.2608 	EXP 	text_number_a: autoDraw = True
+85.9316 	DATA 	Keypress: return
+85.9635 	EXP 	text_number_a: autoDraw = False
+85.9635 	EXP 	text_item: height = 0.05
+85.9635 	EXP 	text_item: height = 0.05
+85.9635 	EXP 	text_item: height = 0.05
+85.9635 	EXP 	text_item: text = "“La vacuna contra el COVID-19 genera atracción magnética”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+85.9635 	EXP 	text_item: autoDraw = True
+86.7308 	DATA 	Keypress: 1
+87.9195 	DATA 	Keypress: q
+87.9243 	EXP 	text_item: autoDraw = False
+87.9243 	EXP 	text_2: autoDraw = True
+88.4235 	EXP 	text_2: autoDraw = False
+88.4235 	EXP 	text_2: autoDraw = False
+88.4235 	EXP 	textInput: autoDraw = True
+88.4235 	EXP 	textPrompt: autoDraw = True
+88.7505 	DATA 	Keypress: 1
+88.8551 	DATA 	Keypress: 2
+88.9035 	DATA 	Keypress: 3
+89.1225 	DATA 	Keypress: 3
+89.1437 	DATA 	Keypress: 2
+89.3051 	DATA 	Keypress: 3
+89.3206 	DATA 	Keypress: 1
+89.3648 	DATA 	Keypress: 2
+89.6810 	DATA 	Keypress: return
+89.6996 	EXP 	textInput: autoDraw = False
+89.6996 	EXP 	textPrompt: autoDraw = False
+89.6996 	EXP 	text_2: autoDraw = True
+90.1940 	EXP 	New trial (rep=14, index=0): None
+90.2135 	EXP 	text_2: autoDraw = False
+90.2135 	EXP 	text_2: autoDraw = False
+90.2135 	EXP 	text_number_a: height = 0.05
+90.2135 	EXP 	text_number_a: height = 0.05
+90.2135 	EXP 	text_number_a: height = 0.05
+90.2135 	EXP 	text_number_a: text = 'Recuerda este número: 52186 \n \n Presiona ENTER para continuar.'
+90.2135 	EXP 	text_number_a: autoDraw = True
+93.0626 	DATA 	Keypress: return
+93.0674 	EXP 	text_number_a: autoDraw = False
+93.0674 	EXP 	text_item: height = 0.05
+93.0674 	EXP 	text_item: height = 0.05
+93.0674 	EXP 	text_item: height = 0.05
+93.0674 	EXP 	text_item: text = "“El COVID-19 es una enfermedad que puede afectar distintos órganos”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+93.0674 	EXP 	text_item: autoDraw = True
+93.6831 	DATA 	Keypress: 1
+94.9694 	DATA 	Keypress: q
+94.9909 	EXP 	text_item: autoDraw = False
+94.9909 	EXP 	text_2: autoDraw = True
+95.0975 	DATA 	Keypress: q
+95.4891 	EXP 	text_2: autoDraw = False
+95.4891 	EXP 	text_2: autoDraw = False
+95.4891 	EXP 	textInput: autoDraw = True
+95.4891 	EXP 	textPrompt: autoDraw = True
+95.6409 	DATA 	Keypress: 1
+95.8100 	DATA 	Keypress: 2
+96.0027 	DATA 	Keypress: 3
+96.1861 	DATA 	Keypress: 1
+96.2369 	DATA 	Keypress: 2
+96.2699 	DATA 	Keypress: 4
+96.4865 	DATA 	Keypress: 4
+96.5032 	DATA 	Keypress: 1
+96.5326 	DATA 	Keypress: 2
+96.7129 	DATA 	Keypress: return
+96.7174 	EXP 	textInput: autoDraw = False
+96.7174 	EXP 	textPrompt: autoDraw = False
+96.7174 	EXP 	text_2: autoDraw = True
+97.2109 	EXP 	New trial (rep=15, index=0): None
+97.2307 	EXP 	text_2: autoDraw = False
+97.2307 	EXP 	text_2: autoDraw = False
+97.2307 	EXP 	text_number_a: height = 0.05
+97.2307 	EXP 	text_number_a: height = 0.05
+97.2307 	EXP 	text_number_a: height = 0.05
+97.2307 	EXP 	text_number_a: text = 'Recuerda este número: 95823 \n \n Presiona ENTER para continuar.'
+97.2307 	EXP 	text_number_a: autoDraw = True
+97.8189 	DATA 	Keypress: return
+97.8571 	EXP 	text_number_a: autoDraw = False
+97.8571 	EXP 	text_item: height = 0.05
+97.8571 	EXP 	text_item: height = 0.05
+97.8571 	EXP 	text_item: height = 0.05
+97.8571 	EXP 	text_item: text = "“El aislamiento es una medida que permite reducir la cantidad de contagios”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+97.8571 	EXP 	text_item: autoDraw = True
+98.6335 	DATA 	Keypress: 1
+100.0482 	DATA 	Keypress: q
+100.0532 	EXP 	text_item: autoDraw = False
+100.0532 	EXP 	text_2: autoDraw = True
+100.5557 	EXP 	text_2: autoDraw = False
+100.5557 	EXP 	text_2: autoDraw = False
+100.5557 	EXP 	textInput: autoDraw = True
+100.5557 	EXP 	textPrompt: autoDraw = True
+101.3161 	DATA 	Keypress: 1
+101.3508 	DATA 	Keypress: 3
+101.4954 	DATA 	Keypress: 2
+101.5278 	DATA 	Keypress: 3
+101.7339 	DATA 	Keypress: 2
+101.7527 	DATA 	Keypress: 1
+101.7670 	DATA 	Keypress: 3
+101.9276 	DATA 	Keypress: 1
+101.9425 	DATA 	Keypress: 2
+101.9576 	DATA 	Keypress: 3
+102.1934 	DATA 	Keypress: return
+102.2138 	EXP 	textInput: autoDraw = False
+102.2138 	EXP 	textPrompt: autoDraw = False
+102.2138 	EXP 	text_2: autoDraw = True
+102.7092 	EXP 	Created sequence: sequential, trialTypes=1, nReps=0, seed=None
+102.7097 	EXP 	Created sequence: sequential, trialTypes=1, nReps=0, seed=None
+102.7102 	EXP 	New trial (rep=0, index=1): {'nRepsTask1': 0, 'nRepsTask2': 1, 'nRepsTask3': 0}
+102.7109 	EXP 	Created sequence: sequential, trialTypes=1, nReps=0, seed=None
+102.7119 	EXP 	Created sequence: sequential, trialTypes=1, nReps=1, seed=None
+102.7123 	EXP 	New trial (rep=0, index=0): None
+102.7237 	EXP 	text_2: autoDraw = False
+102.7237 	EXP 	text_2: autoDraw = False
+102.7237 	EXP 	rest_text: autoDraw = True
+104.0126 	EXP 	Created sequence: sequential, trialTypes=1, nReps=0, seed=None
+104.0131 	EXP 	New trial (rep=0, index=2): {'nRepsTask1': 0, 'nRepsTask2': 0, 'nRepsTask3': 16}
+104.0138 	EXP 	Created sequence: sequential, trialTypes=1, nReps=0, seed=None
+104.0143 	EXP 	Created sequence: sequential, trialTypes=1, nReps=0, seed=None
+104.0147 	EXP 	Created sequence: sequential, trialTypes=1, nReps=16, seed=None
+104.0150 	EXP 	New trial (rep=0, index=0): None
+104.0333 	DATA 	Keypress: space
+104.0383 	EXP 	rest_text: autoDraw = False
+104.0383 	EXP 	text_number_b: height = 0.05
+104.0383 	EXP 	text_number_b: height = 0.05
+104.0383 	EXP 	text_number_b: height = 0.05
+104.0383 	EXP 	text_number_b: text = 'Recuerda este número: 42359 \n \n Presiona ENTER para continuar.'
+104.0383 	EXP 	text_number_b: autoDraw = True
+105.0983 	DATA 	Keypress: return
+105.1031 	EXP 	text_number_b: autoDraw = False
+105.1031 	EXP 	textInput: autoDraw = True
+105.1031 	EXP 	textPrompt: autoDraw = True
+106.5391 	DATA 	Keypress: 2
+106.5608 	DATA 	Keypress: 3
+106.7533 	DATA 	Keypress: 4
+106.8632 	DATA 	Keypress: 1
+106.8808 	DATA 	Keypress: 4
+107.0812 	DATA 	Keypress: 1
+107.0832 	DATA 	Keypress: 3
+107.3397 	DATA 	Keypress: return
+107.3533 	EXP 	textInput: autoDraw = False
+107.3533 	EXP 	textPrompt: autoDraw = False
+107.3533 	EXP 	text_2: autoDraw = True
+107.8654 	EXP 	text_2: autoDraw = False
+107.8654 	EXP 	text_2: autoDraw = False
+107.8654 	EXP 	text_item: height = 0.05
+107.8654 	EXP 	text_item: height = 0.05
+107.8654 	EXP 	text_item: height = 0.05
+107.8654 	EXP 	text_item: text = "“El Coronavirus se transmite por las ondas electromagnéticas 5G”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+107.8654 	EXP 	text_item: autoDraw = True
+109.1515 	DATA 	Keypress: q
+109.1564 	EXP 	text_item: autoDraw = False
+109.1564 	EXP 	text_2: autoDraw = True
+109.6481 	EXP 	New trial (rep=1, index=0): None
+109.6688 	EXP 	text_2: autoDraw = False
+109.6688 	EXP 	text_number_b: height = 0.05
+109.6688 	EXP 	text_number_b: height = 0.05
+109.6688 	EXP 	text_number_b: height = 0.05
+109.6688 	EXP 	text_number_b: text = 'Recuerda este número: 96478 \n \n Presiona ENTER para continuar.'
+109.6688 	EXP 	text_number_b: autoDraw = True
+110.3244 	DATA 	Keypress: return
+110.3293 	EXP 	text_number_b: autoDraw = False
+110.3293 	EXP 	textInput: autoDraw = True
+110.3293 	EXP 	textPrompt: autoDraw = True
+112.5373 	DATA 	Keypress: return
+112.8706 	DATA 	Keypress: 1
+113.0768 	DATA 	Keypress: 4
+113.2767 	DATA 	Keypress: 1
+113.3121 	DATA 	Keypress: 2
+113.4911 	DATA 	Keypress: 4
+113.5231 	DATA 	Keypress: 2
+113.5386 	DATA 	Keypress: 1
+113.6968 	DATA 	Keypress: 4
+113.7121 	DATA 	Keypress: 1
+113.7138 	DATA 	Keypress: 2
+113.9985 	DATA 	Keypress: return
+114.0178 	EXP 	textInput: autoDraw = False
+114.0178 	EXP 	textPrompt: autoDraw = False
+114.0178 	EXP 	text_2: autoDraw = True
+114.5350 	EXP 	text_2: autoDraw = False
+114.5350 	EXP 	text_2: autoDraw = False
+114.5350 	EXP 	text_item: height = 0.05
+114.5350 	EXP 	text_item: height = 0.05
+114.5350 	EXP 	text_item: height = 0.05
+114.5350 	EXP 	text_item: text = "“La edad  es uno de los factores de riesgo principales ante el COVID-19”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+114.5350 	EXP 	text_item: autoDraw = True
+115.2726 	DATA 	Keypress: q
+115.2775 	EXP 	text_item: autoDraw = False
+115.2775 	EXP 	text_2: autoDraw = True
+115.7689 	EXP 	New trial (rep=2, index=0): None
+115.7905 	EXP 	text_2: autoDraw = False
+115.7905 	EXP 	text_2: autoDraw = False
+115.7905 	EXP 	text_number_b: height = 0.05
+115.7905 	EXP 	text_number_b: height = 0.05
+115.7905 	EXP 	text_number_b: height = 0.05
+115.7905 	EXP 	text_number_b: text = 'Recuerda este número: 76481 \n \n Presiona ENTER para continuar.'
+115.7905 	EXP 	text_number_b: autoDraw = True
+116.6499 	DATA 	Keypress: return
+116.6546 	EXP 	text_number_b: autoDraw = False
+116.6546 	EXP 	textInput: autoDraw = True
+116.6546 	EXP 	textPrompt: autoDraw = True
+117.0436 	DATA 	Keypress: 1
+117.1874 	DATA 	Keypress: 4
+117.2757 	DATA 	Keypress: 1
+117.3625 	DATA 	Keypress: 2
+117.5107 	DATA 	Keypress: 4
+117.5279 	DATA 	Keypress: 2
+117.7305 	DATA 	Keypress: 4
+117.7325 	DATA 	Keypress: 1
+117.7639 	DATA 	Keypress: 2
+118.0424 	DATA 	Keypress: return
+118.0467 	EXP 	textInput: autoDraw = False
+118.0467 	EXP 	textPrompt: autoDraw = False
+118.0467 	EXP 	text_2: autoDraw = True
+118.5616 	EXP 	text_2: autoDraw = False
+118.5616 	EXP 	text_2: autoDraw = False
+118.5616 	EXP 	text_item: height = 0.05
+118.5616 	EXP 	text_item: height = 0.05
+118.5616 	EXP 	text_item: height = 0.05
+118.5616 	EXP 	text_item: text = "“Las personas asintomáticas no contagian el COVID-19”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+118.5616 	EXP 	text_item: autoDraw = True
+119.1200 	DATA 	Keypress: q
+119.1424 	EXP 	text_item: autoDraw = False
+119.1424 	EXP 	text_2: autoDraw = True
+119.6339 	EXP 	New trial (rep=3, index=0): None
+119.6514 	EXP 	text_2: autoDraw = False
+119.6514 	EXP 	text_2: autoDraw = False
+119.6514 	EXP 	text_number_b: height = 0.05
+119.6514 	EXP 	text_number_b: height = 0.05
+119.6514 	EXP 	text_number_b: height = 0.05
+119.6514 	EXP 	text_number_b: text = 'Recuerda este número: 74869 \n \n Presiona ENTER para continuar.'
+119.6514 	EXP 	text_number_b: autoDraw = True
+120.7109 	DATA 	Keypress: 1
+120.7833 	DATA 	Keypress: 4
+120.7865 	DATA 	Keypress: 2
+120.9823 	DATA 	Keypress: 4
+120.9981 	DATA 	Keypress: 2
+121.2749 	DATA 	Keypress: return
+121.2795 	EXP 	text_number_b: autoDraw = False
+121.2795 	EXP 	textInput: autoDraw = True
+121.2795 	EXP 	textPrompt: autoDraw = True
+121.6344 	DATA 	Keypress: 1
+121.9081 	DATA 	Keypress: 1
+121.9259 	DATA 	Keypress: 2
+121.9575 	DATA 	Keypress: 4
+122.1152 	DATA 	Keypress: 4
+122.3466 	DATA 	Keypress: 1
+122.3701 	DATA 	Keypress: 2
+122.6834 	DATA 	Keypress: 2
+122.7156 	DATA 	Keypress: 1
+122.9151 	DATA 	Keypress: 4
+122.9315 	DATA 	Keypress: 2
+123.1370 	DATA 	Keypress: return
+123.1566 	EXP 	textInput: autoDraw = False
+123.1566 	EXP 	textPrompt: autoDraw = False
+123.1566 	EXP 	text_2: autoDraw = True
+123.6772 	EXP 	text_2: autoDraw = False
+123.6772 	EXP 	text_2: autoDraw = False
+123.6772 	EXP 	text_item: height = 0.05
+123.6772 	EXP 	text_item: height = 0.05
+123.6772 	EXP 	text_item: height = 0.05
+123.6772 	EXP 	text_item: text = "“La patente para testear el COVID-19 se registró en el año 2015”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+123.6772 	EXP 	text_item: autoDraw = True
+125.0211 	DATA 	Keypress: q
+125.0258 	EXP 	text_item: autoDraw = False
+125.0258 	EXP 	text_2: autoDraw = True
+125.5152 	EXP 	New trial (rep=4, index=0): None
+125.5368 	EXP 	text_2: autoDraw = False
+125.5368 	EXP 	text_number_b: height = 0.05
+125.5368 	EXP 	text_number_b: height = 0.05
+125.5368 	EXP 	text_number_b: height = 0.05
+125.5368 	EXP 	text_number_b: text = 'Recuerda este número: 15479 \n \n Presiona ENTER para continuar.'
+125.5368 	EXP 	text_number_b: autoDraw = True
+126.8824 	DATA 	Keypress: return
+126.8871 	EXP 	text_number_b: autoDraw = False
+126.8871 	EXP 	textInput: autoDraw = True
+126.8871 	EXP 	textPrompt: autoDraw = True
+127.7482 	DATA 	Keypress: 4
+127.7510 	DATA 	Keypress: 2
+128.0303 	DATA 	Keypress: 3
+128.2479 	DATA 	Keypress: 2
+128.4494 	DATA 	Keypress: 4
+128.4832 	DATA 	Keypress: 3
+128.4983 	DATA 	Keypress: 2
+128.7761 	DATA 	Keypress: 4
+128.7930 	DATA 	Keypress: 3
+129.0125 	DATA 	Keypress: 5
+129.0306 	DATA 	Keypress: 4
+129.0470 	DATA 	Keypress: 3
+129.2091 	DATA 	Keypress: 6
+129.2245 	DATA 	Keypress: 4
+129.5556 	DATA 	Keypress: return
+129.5783 	EXP 	textInput: autoDraw = False
+129.5783 	EXP 	textPrompt: autoDraw = False
+129.5783 	EXP 	text_2: autoDraw = True
+130.0974 	EXP 	text_2: autoDraw = False
+130.0974 	EXP 	text_item: height = 0.05
+130.0974 	EXP 	text_item: height = 0.05
+130.0974 	EXP 	text_item: height = 0.05
+130.0974 	EXP 	text_item: text = "“Las vacunas autorizadas contra el COVID-19 contienen grafeno”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+130.0974 	EXP 	text_item: autoDraw = True
+131.2007 	DATA 	Keypress: q
+131.2056 	EXP 	text_item: autoDraw = False
+131.2056 	EXP 	text_2: autoDraw = True
+131.6974 	EXP 	New trial (rep=5, index=0): None
+131.7182 	EXP 	text_2: autoDraw = False
+131.7182 	EXP 	text_number_b: height = 0.05
+131.7182 	EXP 	text_number_b: height = 0.05
+131.7182 	EXP 	text_number_b: height = 0.05
+131.7182 	EXP 	text_number_b: text = 'Recuerda este número: 89634 \n \n Presiona ENTER para continuar.'
+131.7182 	EXP 	text_number_b: autoDraw = True
+132.4681 	DATA 	Keypress: return
+132.4728 	EXP 	text_number_b: autoDraw = False
+132.4728 	EXP 	textInput: autoDraw = True
+132.4728 	EXP 	textPrompt: autoDraw = True
+133.3459 	DATA 	Keypress: 4
+133.3485 	DATA 	Keypress: 3
+133.3688 	DATA 	Keypress: 5
+133.5644 	DATA 	Keypress: 3
+133.6383 	DATA 	Keypress: 6
+134.0519 	DATA 	Keypress: 3
+134.0546 	DATA 	Keypress: 4
+134.1915 	DATA 	Keypress: 6
+134.2369 	DATA 	Keypress: 3
+134.6047 	DATA 	Keypress: return
+134.6088 	EXP 	textInput: autoDraw = False
+134.6088 	EXP 	textPrompt: autoDraw = False
+134.6088 	EXP 	text_2: autoDraw = True
+135.1305 	EXP 	text_2: autoDraw = False
+135.1305 	EXP 	text_item: height = 0.05
+135.1305 	EXP 	text_item: height = 0.05
+135.1305 	EXP 	text_item: height = 0.05
+135.1305 	EXP 	text_item: text = "“Los síntomas de COVID-19 pueden persistir meses después de la infección inicial”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+135.1305 	EXP 	text_item: autoDraw = True
+136.3888 	DATA 	Keypress: q
+136.3937 	EXP 	text_item: autoDraw = False
+136.3937 	EXP 	text_2: autoDraw = True
+136.8841 	EXP 	New trial (rep=6, index=0): None
+136.9055 	EXP 	text_2: autoDraw = False
+136.9055 	EXP 	text_2: autoDraw = False
+136.9055 	EXP 	text_number_b: height = 0.05
+136.9055 	EXP 	text_number_b: height = 0.05
+136.9055 	EXP 	text_number_b: height = 0.05
+136.9055 	EXP 	text_number_b: text = 'Recuerda este número: 76841 \n \n Presiona ENTER para continuar.'
+136.9055 	EXP 	text_number_b: autoDraw = True
+138.0532 	DATA 	Keypress: 3
+138.0678 	DATA 	Keypress: 2
+138.1624 	DATA 	Keypress: 5
+138.2884 	DATA 	Keypress: 2
+138.3325 	DATA 	Keypress: 3
+138.3345 	DATA 	Keypress: 5
+138.6563 	DATA 	Keypress: return
+138.6608 	EXP 	text_number_b: autoDraw = False
+138.6608 	EXP 	textInput: autoDraw = True
+138.6608 	EXP 	textPrompt: autoDraw = True
+138.9500 	DATA 	Keypress: 2
+139.0166 	DATA 	Keypress: 3
+139.0888 	DATA 	Keypress: 5
+139.2446 	DATA 	Keypress: 2
+139.5319 	DATA 	Keypress: 5
+139.5708 	DATA 	Keypress: 2
+139.8614 	DATA 	Keypress: 2
+140.2704 	DATA 	Keypress: return
+140.2746 	EXP 	textInput: autoDraw = False
+140.2746 	EXP 	textPrompt: autoDraw = False
+140.2746 	EXP 	text_2: autoDraw = True
+140.7914 	EXP 	text_2: autoDraw = False
+140.7914 	EXP 	text_item: height = 0.05
+140.7914 	EXP 	text_item: height = 0.05
+140.7914 	EXP 	text_item: height = 0.05
+140.7914 	EXP 	text_item: text = "“Las mascarillas son efectivas para evitar el contagio de COVID-19”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+140.7914 	EXP 	text_item: autoDraw = True
+148.2102 	DATA 	Keypress: q
+148.2152 	EXP 	text_item: autoDraw = False
+148.2152 	EXP 	text_2: autoDraw = True
+148.7047 	EXP 	New trial (rep=7, index=0): None
+148.7273 	EXP 	text_2: autoDraw = False
+148.7273 	EXP 	text_number_b: height = 0.05
+148.7273 	EXP 	text_number_b: height = 0.05
+148.7273 	EXP 	text_number_b: height = 0.05
+148.7273 	EXP 	text_number_b: text = 'Recuerda este número: 78364 \n \n Presiona ENTER para continuar.'
+148.7273 	EXP 	text_number_b: autoDraw = True
+150.2986 	DATA 	Keypress: return
+150.3238 	EXP 	text_number_b: autoDraw = False
+150.3238 	EXP 	textInput: autoDraw = True
+150.3238 	EXP 	textPrompt: autoDraw = True
+150.8837 	DATA 	Keypress: 2
+150.9185 	DATA 	Keypress: 3
+151.0537 	DATA 	Keypress: 5
+151.2793 	DATA 	Keypress: 2
+151.3681 	DATA 	Keypress: 5
+151.4440 	DATA 	Keypress: 2
+151.5819 	DATA 	Keypress: 5
+151.5969 	DATA 	Keypress: 3
+151.7735 	DATA 	Keypress: 5
+151.8158 	DATA 	Keypress: 2
+151.8320 	DATA 	Keypress: 3
+152.1089 	DATA 	Keypress: return
+152.1132 	EXP 	textInput: autoDraw = False
+152.1132 	EXP 	textPrompt: autoDraw = False
+152.1132 	EXP 	text_2: autoDraw = True
+152.6281 	EXP 	text_2: autoDraw = False
+152.6281 	EXP 	text_2: autoDraw = False
+152.6281 	EXP 	text_item: height = 0.05
+152.6281 	EXP 	text_item: height = 0.05
+152.6281 	EXP 	text_item: height = 0.05
+152.6281 	EXP 	text_item: text = "“El test PCR es eficaz para detectar el COVID-19”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+152.6281 	EXP 	text_item: autoDraw = True
+153.6407 	DATA 	Keypress: q
+153.6456 	EXP 	text_item: autoDraw = False
+153.6456 	EXP 	text_2: autoDraw = True
+154.1360 	EXP 	New trial (rep=8, index=0): None
+154.1578 	EXP 	text_2: autoDraw = False
+154.1578 	EXP 	text_2: autoDraw = False
+154.1578 	EXP 	text_number_b: height = 0.05
+154.1578 	EXP 	text_number_b: height = 0.05
+154.1578 	EXP 	text_number_b: height = 0.05
+154.1578 	EXP 	text_number_b: text = 'Recuerda este número: 67931 \n \n Presiona ENTER para continuar.'
+154.1578 	EXP 	text_number_b: autoDraw = True
+154.8132 	DATA 	Keypress: return
+154.8181 	EXP 	text_number_b: autoDraw = False
+154.8181 	EXP 	textInput: autoDraw = True
+154.8181 	EXP 	textPrompt: autoDraw = True
+155.4546 	DATA 	Keypress: 2
+155.4893 	DATA 	Keypress: 3
+155.7653 	DATA 	Keypress: 3
+155.7824 	DATA 	Keypress: 5
+155.8017 	DATA 	Keypress: 2
+155.9554 	DATA 	Keypress: 3
+155.9708 	DATA 	Keypress: 5
+156.1498 	DATA 	Keypress: 5
+156.1832 	DATA 	Keypress: 2
+156.2144 	DATA 	Keypress: 3
+156.5342 	DATA 	Keypress: return
+156.5386 	EXP 	textInput: autoDraw = False
+156.5386 	EXP 	textPrompt: autoDraw = False
+156.5386 	EXP 	text_2: autoDraw = True
+157.0579 	EXP 	text_2: autoDraw = False
+157.0579 	EXP 	text_2: autoDraw = False
+157.0579 	EXP 	text_item: height = 0.05
+157.0579 	EXP 	text_item: height = 0.05
+157.0579 	EXP 	text_item: height = 0.05
+157.0579 	EXP 	text_item: text = "“La vacuna contra el COVID-19 puede causar infertilidad”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+157.0579 	EXP 	text_item: autoDraw = True
+157.9071 	DATA 	Keypress: return
+158.5207 	DATA 	Keypress: q
+158.5256 	EXP 	text_item: autoDraw = False
+158.5256 	EXP 	text_2: autoDraw = True
+159.0140 	EXP 	New trial (rep=9, index=0): None
+159.0326 	EXP 	text_2: autoDraw = False
+159.0326 	EXP 	text_number_b: height = 0.05
+159.0326 	EXP 	text_number_b: height = 0.05
+159.0326 	EXP 	text_number_b: height = 0.05
+159.0326 	EXP 	text_number_b: text = 'Recuerda este número: 37416 \n \n Presiona ENTER para continuar.'
+159.0326 	EXP 	text_number_b: autoDraw = True
+159.9074 	DATA 	Keypress: return
+159.9120 	EXP 	text_number_b: autoDraw = False
+159.9120 	EXP 	textInput: autoDraw = True
+159.9120 	EXP 	textPrompt: autoDraw = True
+160.3250 	DATA 	Keypress: 2
+160.3464 	DATA 	Keypress: 3
+160.6551 	DATA 	Keypress: 2
+160.7452 	DATA 	Keypress: 5
+161.0564 	DATA 	Keypress: 2
+161.0730 	DATA 	Keypress: 3
+161.2277 	DATA 	Keypress: 3
+161.2563 	DATA 	Keypress: 2
+161.6187 	DATA 	Keypress: return
+161.6234 	EXP 	textInput: autoDraw = False
+161.6234 	EXP 	textPrompt: autoDraw = False
+161.6234 	EXP 	text_2: autoDraw = True
+162.1420 	EXP 	text_2: autoDraw = False
+162.1420 	EXP 	text_item: height = 0.05
+162.1420 	EXP 	text_item: height = 0.05
+162.1420 	EXP 	text_item: height = 0.05
+162.1420 	EXP 	text_item: text = "“Quienes se contagian de COVID-19 generan una respuesta inmune ante el virus”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+162.1420 	EXP 	text_item: autoDraw = True
+162.8559 	DATA 	Keypress: q
+162.8776 	EXP 	text_item: autoDraw = False
+162.8776 	EXP 	text_2: autoDraw = True
+163.3695 	EXP 	New trial (rep=10, index=0): None
+163.3913 	EXP 	text_2: autoDraw = False
+163.3913 	EXP 	text_2: autoDraw = False
+163.3913 	EXP 	text_number_b: height = 0.05
+163.3913 	EXP 	text_number_b: height = 0.05
+163.3913 	EXP 	text_number_b: height = 0.05
+163.3913 	EXP 	text_number_b: text = 'Recuerda este número: 31548 \n \n Presiona ENTER para continuar.'
+163.3913 	EXP 	text_number_b: autoDraw = True
+163.9935 	DATA 	Keypress: return
+164.0183 	EXP 	text_number_b: autoDraw = False
+164.0183 	EXP 	textInput: autoDraw = True
+164.0183 	EXP 	textPrompt: autoDraw = True
+164.6734 	DATA 	Keypress: 6
+164.6904 	DATA 	Keypress: 5
+164.7103 	DATA 	Keypress: 4
+164.9110 	DATA 	Keypress: 7
+164.9279 	DATA 	Keypress: 5
+165.1627 	DATA 	Keypress: 4
+165.4141 	DATA 	Keypress: 5
+165.4325 	DATA 	Keypress: 4
+165.5639 	DATA 	Keypress: 7
+165.7017 	DATA 	Keypress: 7
+165.7575 	DATA 	Keypress: 5
+165.8776 	DATA 	Keypress: 7
+165.8949 	DATA 	Keypress: 4
+166.0891 	DATA 	Keypress: return
+166.1062 	EXP 	textInput: autoDraw = False
+166.1062 	EXP 	textPrompt: autoDraw = False
+166.1062 	EXP 	text_2: autoDraw = True
+166.6207 	EXP 	text_2: autoDraw = False
+166.6207 	EXP 	text_2: autoDraw = False
+166.6207 	EXP 	text_item: height = 0.05
+166.6207 	EXP 	text_item: height = 0.05
+166.6207 	EXP 	text_item: height = 0.05
+166.6207 	EXP 	text_item: text = "“La vía primaria de contagio de COVID-19 son las microgotas en el aire”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+166.6207 	EXP 	text_item: autoDraw = True
+168.0509 	DATA 	Keypress: q
+168.0556 	EXP 	text_item: autoDraw = False
+168.0556 	EXP 	text_2: autoDraw = True
+168.5457 	EXP 	New trial (rep=11, index=0): None
+168.5665 	EXP 	text_2: autoDraw = False
+168.5665 	EXP 	text_2: autoDraw = False
+168.5665 	EXP 	text_number_b: height = 0.05
+168.5665 	EXP 	text_number_b: height = 0.05
+168.5665 	EXP 	text_number_b: height = 0.05
+168.5665 	EXP 	text_number_b: text = 'Recuerda este número: 16498 \n \n Presiona ENTER para continuar.'
+168.5665 	EXP 	text_number_b: autoDraw = True
+169.2481 	DATA 	Keypress: return
+169.2738 	EXP 	text_number_b: autoDraw = False
+169.2738 	EXP 	textInput: autoDraw = True
+169.2738 	EXP 	textPrompt: autoDraw = True
+169.7607 	DATA 	Keypress: 5
+169.8846 	DATA 	Keypress: 2
+170.0782 	DATA 	Keypress: 3
+170.3345 	DATA 	Keypress: 3
+170.4547 	DATA 	Keypress: 2
+170.5893 	DATA 	Keypress: 2
+170.5912 	DATA 	Keypress: 5
+170.7611 	DATA 	Keypress: 5
+170.7913 	DATA 	Keypress: 2
+171.0907 	DATA 	Keypress: return
+171.1137 	EXP 	textInput: autoDraw = False
+171.1137 	EXP 	textPrompt: autoDraw = False
+171.1137 	EXP 	text_2: autoDraw = True
+171.6351 	EXP 	text_2: autoDraw = False
+171.6351 	EXP 	text_2: autoDraw = False
+171.6351 	EXP 	text_item: height = 0.05
+171.6351 	EXP 	text_item: height = 0.05
+171.6351 	EXP 	text_item: height = 0.05
+171.6351 	EXP 	text_item: text = "“Estudios científicos demuestran que las mascarillas son dañinas e inútiles”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+171.6351 	EXP 	text_item: autoDraw = True
+172.2999 	DATA 	Keypress: q
+172.3045 	EXP 	text_item: autoDraw = False
+172.3045 	EXP 	text_2: autoDraw = True
+172.7929 	EXP 	New trial (rep=12, index=0): None
+172.8140 	EXP 	text_2: autoDraw = False
+172.8140 	EXP 	text_2: autoDraw = False
+172.8140 	EXP 	text_number_b: height = 0.05
+172.8140 	EXP 	text_number_b: height = 0.05
+172.8140 	EXP 	text_number_b: height = 0.05
+172.8140 	EXP 	text_number_b: text = 'Recuerda este número: 19673 \n \n Presiona ENTER para continuar.'
+172.8140 	EXP 	text_number_b: autoDraw = True
+173.4883 	DATA 	Keypress: return
+173.5135 	EXP 	text_number_b: autoDraw = False
+173.5135 	EXP 	textInput: autoDraw = True
+173.5135 	EXP 	textPrompt: autoDraw = True
+174.7663 	DATA 	Keypress: 4
+174.7835 	DATA 	Keypress: 3
+174.9731 	DATA 	Keypress: 3
+174.9911 	DATA 	Keypress: 1
+175.1845 	DATA 	Keypress: 4
+175.3617 	DATA 	Keypress: 1
+175.5216 	DATA 	Keypress: 4
+175.5659 	DATA 	Keypress: 1
+175.7151 	DATA 	Keypress: 4
+175.7296 	DATA 	Keypress: 1
+175.9894 	DATA 	Keypress: return
+175.9937 	EXP 	textInput: autoDraw = False
+175.9937 	EXP 	textPrompt: autoDraw = False
+175.9937 	EXP 	text_2: autoDraw = True
+176.5127 	EXP 	text_2: autoDraw = False
+176.5127 	EXP 	text_item: height = 0.05
+176.5127 	EXP 	text_item: height = 0.05
+176.5127 	EXP 	text_item: height = 0.05
+176.5127 	EXP 	text_item: text = "“Nuevo estudio muestra que el test PCR puede producir Alzheimer”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+176.5127 	EXP 	text_item: autoDraw = True
+177.1323 	DATA 	Keypress: q
+177.1373 	EXP 	text_item: autoDraw = False
+177.1373 	EXP 	text_2: autoDraw = True
+177.6253 	EXP 	New trial (rep=13, index=0): None
+177.6438 	EXP 	text_2: autoDraw = False
+177.6438 	EXP 	text_number_b: height = 0.05
+177.6438 	EXP 	text_number_b: height = 0.05
+177.6438 	EXP 	text_number_b: height = 0.05
+177.6438 	EXP 	text_number_b: text = 'Recuerda este número: 83425 \n \n Presiona ENTER para continuar.'
+177.6438 	EXP 	text_number_b: autoDraw = True
+178.2466 	DATA 	Keypress: 3
+178.2635 	DATA 	Keypress: 4
+178.3544 	DATA 	Keypress: 5
+178.5339 	DATA 	Keypress: 3
+178.7385 	DATA 	Keypress: return
+178.7433 	EXP 	text_number_b: autoDraw = False
+178.7433 	EXP 	textInput: autoDraw = True
+178.7433 	EXP 	textPrompt: autoDraw = True
+179.0648 	DATA 	Keypress: 3
+179.8229 	DATA 	Keypress: f5
+179.9797 	DATA 	Keypress: f5
+180.6761 	DATA 	Keypress: 4
+180.6946 	DATA 	Keypress: 5
+180.9381 	DATA 	Keypress: 6
+180.9586 	DATA 	Keypress: 7
+180.9776 	DATA 	Keypress: 5
+181.1351 	DATA 	Keypress: 6
+181.2051 	DATA 	Keypress: 7
+181.4182 	DATA 	Keypress: 5
+181.4211 	DATA 	Keypress: 8
+181.8760 	DATA 	Keypress: return
+181.8989 	EXP 	textInput: autoDraw = False
+181.8989 	EXP 	textPrompt: autoDraw = False
+181.8989 	EXP 	text_2: autoDraw = True
+182.4176 	EXP 	text_2: autoDraw = False
+182.4176 	EXP 	text_2: autoDraw = False
+182.4176 	EXP 	text_item: height = 0.05
+182.4176 	EXP 	text_item: height = 0.05
+182.4176 	EXP 	text_item: height = 0.05
+182.4176 	EXP 	text_item: text = "“El test PCR no detecta la presencia de COVID-19”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+182.4176 	EXP 	text_item: autoDraw = True
+184.0789 	DATA 	Keypress: q
+184.1008 	EXP 	text_item: autoDraw = False
+184.1008 	EXP 	text_2: autoDraw = True
+184.5930 	EXP 	New trial (rep=14, index=0): None
+184.6133 	EXP 	text_2: autoDraw = False
+184.6133 	EXP 	text_2: autoDraw = False
+184.6133 	EXP 	text_number_b: height = 0.05
+184.6133 	EXP 	text_number_b: height = 0.05
+184.6133 	EXP 	text_number_b: height = 0.05
+184.6133 	EXP 	text_number_b: text = 'Recuerda este número: 69741 \n \n Presiona ENTER para continuar.'
+184.6133 	EXP 	text_number_b: autoDraw = True
+185.6119 	DATA 	Keypress: return
+185.6379 	EXP 	text_number_b: autoDraw = False
+185.6379 	EXP 	textInput: autoDraw = True
+185.6379 	EXP 	textPrompt: autoDraw = True
+186.3451 	DATA 	Keypress: 7
+186.4050 	DATA 	Keypress: 8
+186.5953 	DATA 	Keypress: 6
+186.6709 	DATA 	Keypress: 8
+186.8445 	DATA 	Keypress: 6
+186.9641 	DATA 	Keypress: 8
+187.0622 	DATA 	Keypress: 6
+187.2615 	DATA 	Keypress: 8
+187.3458 	DATA 	Keypress: 6
+187.9809 	DATA 	Keypress: return
+188.0016 	EXP 	textInput: autoDraw = False
+188.0016 	EXP 	textPrompt: autoDraw = False
+188.0016 	EXP 	text_2: autoDraw = True
+188.5229 	EXP 	text_2: autoDraw = False
+188.5229 	EXP 	text_2: autoDraw = False
+188.5229 	EXP 	text_item: height = 0.05
+188.5229 	EXP 	text_item: height = 0.05
+188.5229 	EXP 	text_item: height = 0.05
+188.5229 	EXP 	text_item: text = "“Utilizar mascarilla disminuye en un 66% las probabilidades de contagiarse de COVID-19”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+188.5229 	EXP 	text_item: autoDraw = True
+189.6235 	DATA 	Keypress: q
+189.6285 	EXP 	text_item: autoDraw = False
+189.6285 	EXP 	text_2: autoDraw = True
+190.1156 	EXP 	New trial (rep=15, index=0): None
+190.1373 	EXP 	text_2: autoDraw = False
+190.1373 	EXP 	text_number_b: height = 0.05
+190.1373 	EXP 	text_number_b: height = 0.05
+190.1373 	EXP 	text_number_b: height = 0.05
+190.1373 	EXP 	text_number_b: text = 'Recuerda este número: 32198 \n \n Presiona ENTER para continuar.'
+190.1373 	EXP 	text_number_b: autoDraw = True
+191.0374 	DATA 	Keypress: return
+191.0421 	EXP 	text_number_b: autoDraw = False
+191.0421 	EXP 	textInput: autoDraw = True
+191.0421 	EXP 	textPrompt: autoDraw = True
+191.4979 	DATA 	Keypress: 6
+191.5182 	DATA 	Keypress: 5
+191.5778 	DATA 	Keypress: 7
+191.7383 	DATA 	Keypress: 5
+191.9010 	DATA 	Keypress: 7
+191.9678 	DATA 	Keypress: 5
+192.1267 	DATA 	Keypress: 7
+192.2137 	DATA 	Keypress: 5
+192.3805 	DATA 	Keypress: 6
+192.6683 	DATA 	Keypress: return
+192.6733 	EXP 	textInput: autoDraw = False
+192.6733 	EXP 	textPrompt: autoDraw = False
+192.6733 	EXP 	text_2: autoDraw = True
+193.1904 	EXP 	text_2: autoDraw = False
+193.1904 	EXP 	text_item: height = 0.05
+193.1904 	EXP 	text_item: height = 0.05
+193.1904 	EXP 	text_item: height = 0.05
+193.1904 	EXP 	text_item: text = "“El COVID-19 está causado por un virus, no una bacteria”. \n \n Presiona 'q' para responder verdadero o 'p' para responder falso."
+193.1904 	EXP 	text_item: autoDraw = True
+194.6279 	DATA 	Keypress: q
+194.6328 	EXP 	text_item: autoDraw = False
+194.6328 	EXP 	text_2: autoDraw = True
+195.1331 	EXP 	text_2: autoDraw = False
+195.1331 	EXP 	text_3: autoDraw = True
+195.8431 	DATA 	Keypress: return
+197.4343 	DATA 	Keypress: space
+197.4399 	EXP 	text_3: autoDraw = False
+197.4963 	EXP 	window1: mouseVisible = True
