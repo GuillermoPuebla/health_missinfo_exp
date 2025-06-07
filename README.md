@@ -1,1 +1,1 @@
-Psychopy experiment for article "Motivated Reasoning vs Dual Processes as Drivers of Health-related Misinformation".
+Psychopy experiment for article "Cognitive Load and Individual Differences as Drivers of Health-Related Misinformation: A Signal Detection Approach".
